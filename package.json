@@ -1,0 +1,13 @@
+{
+  "name": "aoc2022",
+  "scripts": {
+    "start": "ts-node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgrijuela/aoc2022.git"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
